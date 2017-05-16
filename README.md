@@ -31,7 +31,7 @@ _You **can** combine them_
 	1. Item 3b
 	
 ### Images
-![GitHub Logo](/images/logo.png)
+![Imgur](http://i.imgur.com/NhmmwFQ.png)
 Format: ![Alt Text](url)
 
 ## Links
