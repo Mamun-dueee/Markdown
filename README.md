@@ -31,13 +31,12 @@ _You **can** combine them_
 	1. Item 3b
 	
 ### Images
-
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
 ## Links
-
 http://github.com - automatic!
+
 [GitHub](http://github.com)
 
 ## Blockquotes
@@ -53,7 +52,7 @@ I think you should use an `<addr` element here instead.
 
 # GitHub Flavored Markdown
 
-##Syntax highlighting
+## Syntax highlighting
 
 ### javascript
 ```javascript
@@ -84,6 +83,6 @@ First Header | Second Header
 ## StrikeThrough
 Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 
-##Emoji 
+## Emoji 
 
 Github supports emoji ! :smile: :stuck_out_tongue_winking_eye: :open_mouth:
