@@ -32,7 +32,6 @@ _You **can** combine them_
 	
 ### Images
 ![Imgur](http://i.imgur.com/NhmmwFQ.png)
-Format: ![Alt Text](url)
 
 ## Links
 http://github.com - automatic!
