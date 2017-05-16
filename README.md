@@ -85,3 +85,12 @@ Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 ## Emoji 
 
 Github supports emoji ! :smile: :stuck_out_tongue_winking_eye: :open_mouth:
+
+## C Code
+```c
+#include<stdio.h>
+void main()
+{
+    printf("Hey! This is syntax highlighting test for C code. ");
+}
+```
